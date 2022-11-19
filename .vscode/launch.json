@@ -12,7 +12,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "../golang-monolith-web-app/cmd/web/."
+            "program": "../golang-monolith-web-app/booking/cmd/web/."
         }
     ]
 }
